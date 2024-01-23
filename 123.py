@@ -1,1 +1,2 @@
 print("The world")
+print("")
